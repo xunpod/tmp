@@ -1,0 +1,899 @@
+17:03:58 gnome-logs: Error getting poll events from systemd journal: 打开的文件过多
+17:03:58 xdg-desktop-por: xdp-kde-settings: Namespace  "org.gnome.desktop.a11y.interface"  is not supported
+17:03:58 gnome-logs: Failed to create file monitor for /home/xunpod/.var/app/org.gnome.Logs/config/glib-2.0/settings/keyfile: Unable to find default local file monitor type
+17:03:58 systemd: Started app-flatpak-org.gnome.Logs-128715.scope.
+17:03:57 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 27570, resource id: 4194679, major code: 18 (ChangeProperty), minor code: 0
+17:03:54 plasmashell: file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemListDialog.qml:73: TypeError: Value is null and could not be converted to an object
+17:03:46 dolphin: kf.kio.core: "文件或文件夹 /run/media/xunpod/game 不存在。"
+17:03:45 systemd: Started app-org.kde.dolphin-afecbb7026d34762ad332384c6356f7f.scope.
+17:03:45 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 17679, resource id: 157286414, major code: 18 (ChangeProperty), minor code: 0
+17:03:45 kstart5: Omitting both --window and --windowclass arguments is not recommended
+17:03:35 telegram-deskto: Corrupt JPEG data: premature end of data segment
+17:03:30 systemd-network: wlan0: Link UP
+17:03:30 NetworkManager: <info>  [1709024610.6520] device (wlan0): set-hw-addr: set MAC address to 62:BB:D1:11:68:93 (scanning)
+17:03:30 systemd-network: wlan0: Link DOWN
+17:03:25 Discord: [127395:0227/170325.431554:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:03:06 plasmashell: QUnifiedTimer::stopAnimationDriver: driver is not running
+17:03:05 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 51166, resource id: 4194653, major code: 18 (ChangeProperty), minor code: 0
+17:02:59 Discord: [127395:0227/170259.633008:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:02:59 systemd: Started app-org.kde.konsole-d245298caf06449dbf620254361e2069.scope.
+17:02:59 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 45417, resource id: 4194634, major code: 18 (ChangeProperty), minor code: 0
+17:02:39 plasmashell: Could not find the Plasmoid for Plasma::FrameSvgItem(0x5628c9f9c3b0) QQmlContext(0x5628c63c4d70) QUrl("file:///usr/share/plasma/plasmoids/org.kde.plasma.notifications/contents/ui/global/Globals.qml")
+17:02:37 fcitx5: I2024-02-27 17:02:37.224186 instance.cpp:1182] End autosave
+17:02:34 plasmashell: file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemListDialog.qml:73: TypeError: Value is null and could not be converted to an object
+17:02:33 Discord: [127395:0227/170233.312146:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:02:29 systemd: Started app-org.kde.konsole-b6c881964a2b4da8b988048e9bdafea1.scope.
+17:02:29 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 15490, resource id: 4194478, major code: 18 (ChangeProperty), minor code: 0
+17:02:13 Discord: [127395:0227/170213.066728:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:02:07 dbus-daemon: [session uid=1000 pid=2330] Activated service 'org.kde.KSplash' failed: Process org.kde.KSplash exited with status 1
+17:02:07 plasma_waitforn: org.kde.knotifications: WaitForName: Service was not registered within timeout
+17:02:05 Discord: [127395:0227/170205.635997:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:01:48 kded5: Registering ":1.11509/StatusNotifierItem" to system tray
+17:01:37 plasmashell: js: Error: Sending to DAP went wrong (error="Failed to fetch", event-id="364", page-id="110")
+17:01:35 Discord: legacyModuleUpdater: update-check-finished
+17:01:35 kernel: audit: type=1334 audit(1709024495.693:113): prog-id=75 op=UNLOAD
+17:01:35 kernel: kauditd_printk_skb: 7 callbacks suppressed
+17:01:35 kernel: BPF prog-id=75 op=UNLOAD
+17:01:35 Discord: blackbox: 2024-02-27T09:01:35.677Z 8 window.close win1
+17:01:35 systemd: systemd-hostnamed.service: Deactivated successfully.
+17:01:35 Discord: [127395:0227/170135.608540:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+17:01:34 ktraderclient5: kf.service.services: KMimeTypeTrader: MIME type "x-scheme-handler/spotify" not found
+17:01:34 Discord: mainScreen.UpdaterEvents: UPDATER_HISTORY_QUERY_AND_TRUNCATE
+17:01:34 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 43809, resource id: 119537672, major code: 18 (ChangeProperty), minor code: 0
+17:01:34 dbus-daemon: [session uid=1000 pid=2330] Successfully activated service 'org.kde.kwalletd5'
+17:01:34 kwalletd5: kf.wallet.kwalletd: Lacking a socket, pipe: 0 env: 0
+17:01:34 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 43696, resource id: 119537672, major code: 18 (ChangeProperty), minor code: 0
+17:01:34 dbus-daemon: [session uid=1000 pid=2330] Activating service name='org.kde.kwalletd5' requested by ':1.11502' (uid=1000 pid=127344 comm="/usr/lib/discord/Discord --no-sandbox --use-gl=des")
+17:01:34 Discord: [127344:0227/170134.555871:ERROR:kwallet_dbus.cc(72)] Error contacting klauncher to start kwalletd5
+17:01:34 dbus-daemon: [session uid=1000 pid=2330] Successfully activated service 'org.kde.kwalletd5'
+17:01:34 kwalletd5: kf.wallet.kwalletd: Lacking a socket, pipe: 0 env: 0
+17:01:34 dbus-daemon: [session uid=1000 pid=2330] Activating service name='org.kde.kwalletd5' requested by ':1.11502' (uid=1000 pid=127344 comm="/usr/lib/discord/Discord --no-sandbox --use-gl=des")
+17:01:33 Discord: [127395:0227/170133.727773:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: BGRA_8888, share_between_threads: 0, gmb_type: shared_memory
+17:01:33 kded5: Registering "org.kde.StatusNotifierItem-127344-1/StatusNotifierItem" to system tray
+17:01:33 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 9 (BadDrawable), sequence: 43091, resource id: 17361614, major code: 14 (GetGeometry), minor code: 0
+17:01:33 Discord: blackbox: 2024-02-27T09:01:33.686Z 6 ✅ window.created win2 "Discord"
+17:01:31 systemd: Started app-discord-803725479c214d3aa1c152bbb9a21a4f.scope.
+17:01:31 discord: NVIDIA proprietary driver detected, disabling sandbox ...
+17:01:29 plasmashell: libpng warning: iCCP: known incorrect sRGB profile
+17:01:28 kwin_x11: kwin_core: Failed to focus 0x40008f (error 8)
+17:01:28 plasmashell: file:///usr/share/plasma/plasmoids/org.kde.plasma.kicker/contents/ui/ItemListDialog.qml:73: TypeError: Cannot call method 'hasOwnProperty' of null
+17:01:08 kioslave5: QObject::connect: No such slot DesktopProtocol::_k_slotRedirection(KIO::Job *, QUrl)
+17:01:08 plasmashell: file:///usr/lib/qt5/qml/org/kde/plasma/extras/PlaceholderMessage.qml:238:5: QML Heading: Binding loop detected for property "verticalAlignment"
+17:01:07 dbus-daemon: [session uid=1000 pid=2330] Activating service name='org.kde.KSplash' requested by ':1.11489' (uid=1000 pid=127020 comm="/usr/bin/plasmashell --no-respawn")
+17:01:07 plasmashell: file:///usr/share/plasma/plasmoids/org.kde.plasma.networkmanagement/contents/ui/main.qml:95: TypeError: Cannot read property 'airplaneModeAvailable' of null
+17:01:06 kioslave5: QObject::connect: No such slot DesktopProtocol::_k_slotRedirection(KIO::Job *, QUrl)
+17:01:06 plasmashell: file:///usr/lib/qt5/qml/org/kde/kirigami.2/templates/InlineMessage.qml:257:13: QML SelectableLabel: Binding loop detected for property "implicitWidth"
+17:01:05 NetworkManager: <info>  [1709024465.7787] audit: op="statistics" interface="wlan0" ifindex=3 args="500" pid=127032 uid=1000 result="success"
+17:01:05 systemd: Started plasma-ksystemstats.service.
+17:01:05 dbus-daemon: [session uid=1000 pid=2330] Successfully activated service 'org.kde.ksystemstats'
+17:01:05 ksystemstats: Loaded plugin "ksystemstats_plugin_memory" from file "/usr/lib/qt5/plugins/ksystemstats/ksystemstats_plugin_memory.so"
+17:01:05 NetworkManager: <info>  [1709024465.7092] audit: op="statistics" interface="wlan0" ifindex=3 args="500" pid=127032 uid=1000 result="success"
+17:01:05 ksystemstats: kf.i18n: KLocalizedString: Using an empty domain, fix the code. msgid: "Temperature %1" msgid_plural: "" msgctxt: "@title %1 is a number"
+17:01:05 NetworkManager: <info>  [1709024465.7062] audit: op="statistics" interface="eno1" ifindex=2 args="500" pid=127032 uid=1000 result="success"
+17:01:05 ksystemstats: Loaded plugin "ksystemstats_plugin_disk" from file "/usr/lib/qt5/plugins/ksystemstats/ksystemstats_plugin_disk.so"
+17:01:05 systemd: Started systemd-hostnamed.service.
+17:01:05 dbus-daemon: [system] Successfully activated service 'org.freedesktop.hostname1'
+17:01:05 systemd: Starting systemd-hostnamed.service...
+17:01:05 ksystemstats: Loaded plugin "ksystemstats_plugin_cpu" from file "/usr/lib/qt5/plugins/ksystemstats/ksystemstats_plugin_cpu.so"
+17:01:05 kernel: BPF prog-id=77 op=LOAD
+17:01:05 ksystemstats: Loaded plugin "ksystemstats_plugin_osinfo" from file "/usr/lib/qt5/plugins/ksystemstats/ksystemstats_plugin_osinfo.so"
+17:01:05 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.5774' (uid=1000 pid=127032 comm="/usr/bin/ksystemstats")
+17:01:05 systemd: Starting plasma-ksystemstats.service...
+17:01:05 dbus-daemon: [session uid=1000 pid=2330] Activating via systemd: service name='org.kde.ksystemstats' unit='plasma-ksystemstats.service' requested by ':1.11489' (uid=1000 pid=127020 comm="/usr/bin/plasmashell --no-respawn")
+17:01:05 plasmashell: kf.plasma.quick: Applet preload policy set to 1
+17:01:05 systemd: Started plasma-plasmashell.service.
+17:01:04 kernel: BPF prog-id=69 op=UNLOAD
+17:01:04 systemd: plasma-plasmashell.service: Consumed 2min 8.817s CPU time.
+17:01:04 systemd-coredum: Process 115283 (plasmashell) of user 1000 dumped core.
+
+Stack trace of thread 115283:
+#0  0x00007f1f416d3eec __pthread_kill_implementation (libc.so.6 + 0x8aeec)
+#1  0x00007f1f41685072 __GI_raise (libc.so.6 + 0x3c072)
+#2  0x00007f1f440dccb8 _ZN6KCrash19defaultCrashHandlerEi (libKF5Crash.so.5 + 0x7cb8)
+#3  0x00007f1f41685110 __restore_rt (libc.so.6 + 0x3c110)
+#4  0x00007f1f416d3eec __pthread_kill_implementation (libc.so.6 + 0x8aeec)
+#5  0x00007f1f41685072 __GI_raise (libc.so.6 + 0x3c072)
+#6  0x00007f1f41685110 __restore_rt (libc.so.6 + 0x3c110)
+#7  0x00007f1f40980ff7 n/a (libz.so.1 + 0x9ff7)
+#8  0x00007f1f40982fa4 deflate (libz.so.1 + 0xbfa4)
+#9  0x00007f1f40761ca7 n/a (libpng16.so.16 + 0x2aca7)
+#10 0x00007f1f40762ee5 png_write_row (libpng16.so.16 + 0x2bee5)
+#11 0x00007f1f40766458 png_write_image (libpng16.so.16 + 0x2f458)
+#12 0x00007f1f42446582 n/a (libQt5Gui.so.5 + 0x246582)
+#13 0x00007f1f424468ac n/a (libQt5Gui.so.5 + 0x2468ac)
+#14 0x00007f1f423ff3cd _ZN12QImageWriter5writeERK6QImage (libQt5Gui.so.5 + 0x1ff3cd)
+#15 0x00007f1f423d2a9b _ZlsR11QDataStreamRK6QImage (libQt5Gui.so.5 + 0x1d2a9b)
+#16 0x00007f1ef5b5c338 n/a (plasma_engine_clipboard.so + 0x3a338)
+#17 0x00007f1ef5b4c5b4 n/a (plasma_engine_clipboard.so + 0x2a5b4)
+#18 0x00007f1ef5b4c88f n/a (plasma_engine_clipboard.so + 0x2a88f)
+#19 0x00007f1f44286c57 n/a (libKF5Plasma.so.5 + 0x55c57)
+#20 0x00007f1f44286d49 n/a (libKF5Plasma.so.5 + 0x55d49)
+#21 0x00007f1f4168754d __run_exit_handlers (libc.so.6 + 0x3e54d)
+#22 0x00007f1f416876aa __GI_exit (libc.so.6 + 0x3e6aa)
+#23 0x00007f1f41285b4f _XDefaultIOError (libX11.so.6 + 0x44b4f)
+#24 0x00007f1f4128863f _XIOError (libX11.so.6 + 0x4763f)
+#25 0x00007f1f41288710 n/a (libX11.so.6 + 0x47710)
+#26 0x00007f1f41271f3f XNextRequest (libX11.so.6 + 0x30f3f)
+#27 0x00007f1f2e49b9f5 n/a (KF5WindowSystemX11Plugin.so + 0x179f5)
+#28 0x00007f1f43926ecb _ZN18KWindowInfoPrivate6createEy6QFlagsIN3NET8PropertyEES0_INS1_9Property2EE (libKF5WindowSystem.so.5 + 0x27ecb)
+#29 0x00007f1f43927020 _ZN11KWindowInfoC1Ey6QFlagsIN3NET8PropertyEES0_INS1_9Property2EE (libKF5WindowSystem.so.5 + 0x28020)
+#30 0x00007f1f255d7ad6 n/a (libtaskmanager.so.6 + 0x69ad6)
+#31 0x00007f1f255de319 _ZNK11TaskManager17XWindowTasksModel4dataERK11QModelIndexi (libtaskmanager.so.6 + 0x70319)
+#32 0x00007f1f41eaf9d0 _ZNK19QAbstractProxyModel4dataERK11QModelIndexi (libQt5Core.so.5 + 0x2af9d0)
+#33 0x00007f1f41eb1b2a _ZNK28QConcatenateTablesProxyModel4dataERK11QModelIndexi (libQt5Core.so.5 + 0x2b1b2a)
+#34 0x00007f1f255b1924 _ZNK11TaskManager20TaskFilterProxyModel10acceptsRowEi (libtaskmanager.so.6 + 0x43924)
+#35 0x00007f1f41eca3b5 n/a (libQt5Core.so.5 + 0x2ca3b5)
+#36 0x00007f1f41f2da0d n/a (libQt5Core.so.5 + 0x32da0d)
+#37 0x00007f1f41e8dafc _ZN18QAbstractItemModel11dataChangedERK11QModelIndexS2_RK7QVectorIiE (libQt5Core.so.5 + 0x28dafc)
+#38 0x00007f1f41eb228f n/a (libQt5Core.so.5 + 0x2b228f)
+#39 0x00007f1f41f2da0d n/a (libQt5Core.so.5 + 0x32da0d)
+#40 0x00007f1f41e8dafc _ZN18QAbstractItemModel11dataChangedERK11QModelIndexS2_RK7QVectorIiE (libQt5Core.so.5 + 0x28dafc)
+#41 0x00007f1f41eb83e1 n/a (libQt5Core.so.5 + 0x2b83e1)
+#42 0x00007f1f41f2da0d n/a (libQt5Core.so.5 + 0x32da0d)
+#43 0x00007f1f41e8dafc _ZN18QAbstractItemModel11dataChangedERK11QModelIndexS2_RK7QVectorIiE (libQt5Core.so.5 + 0x28dafc)
+#44 0x00007f1f255d932d n/a (libtaskmanager.so.6 + 0x6b32d)
+#45 0x00007f1f255e239a n/a (libtaskmanager.so.6 + 0x7439a)
+#46 0x00007f1f41f2dcea n/a (libQt5Core.so.5 + 0x32dcea)
+#47 0x00007f1f255d7786 n/a (libtaskmanager.so.6 + 0x69786)
+#48 0x00007f1f41f2dcea n/a (libQt5Core.so.5 + 0x32dcea)
+#49 0x00007f1f4391af34 _ZN10KX11Extras13windowChangedEy6QFlagsIN3NET8PropertyEES0_INS1_9Property2EE (libKF5WindowSystem.so.5 + 0x1bf34)
+#50 0x00007f1f2e49787c n/a (KF5WindowSystemX11Plugin.so + 0x1387c)
+#51 0x00007f1f41ef259f _ZN24QAbstractEventDispatcher17filterNativeEventERK10QByteArrayPvPl (libQt5Core.so.5 + 0x2f259f)
+#52 0x00007f1f2fcf24bf _ZN14QXcbConnection14handleXcbEventEP19xcb_generic_event_t (libQt5XcbQpa.so.5 + 0x464bf)
+#53 0x00007f1f2fcf3b36 _ZN14QXcbConnection16processXcbEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5XcbQpa.so.5 + 0x47b36)
+#54 0x00007f1f2fd19a43 n/a (libQt5XcbQpa.so.5 + 0x6da43)
+#55 0x00007f1f40883de8 n/a (libglib-2.0.so.0 + 0x59de8)
+#56 0x00007f1f40886ec7 n/a (libglib-2.0.so.0 + 0x5cec7)
+#57 0x00007f1f408874cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#58 0x00007f1f41f4e9a6 _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x34e9a6)
+#59 0x00007f1f41ef39bb _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2f39bb)
+#60 0x00007f1f41efbe60 _ZN16QCoreApplication4execEv (libQt5Core.so.5 + 0x2fbe60)
+#61 0x00005567be18a4c5 n/a (plasmashell + 0x284c5)
+#62 0x00007f1f4166f48a __libc_start_call_main (libc.so.6 + 0x2648a)
+#63 0x00007f1f4166f545 __libc_start_main_impl (libc.so.6 + 0x26545)
+
+Stack trace of thread 115305:
+#0  0x00007f1f2d542c67 n/a (libnvidia-glcore.so.545.29.06 + 0xf42c67)
+#1  0x00007f1f2d010ae5 n/a (libnvidia-glcore.so.545.29.06 + 0xa10ae5)
+#2  0x00007f1f2d01107a n/a (libnvidia-glcore.so.545.29.06 + 0xa1107a)
+#3  0x00007f1f2cff29e4 n/a (libnvidia-glcore.so.545.29.06 + 0x9f29e4)
+#4  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115286:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1f40886e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007f1f408874cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007f1f41f4e9a6 _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x34e9a6)
+#4  0x00007f1f41ef39bb _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2f39bb)
+#5  0x00007f1f41d0a19e _ZN7QThread4execEv (libQt5Core.so.5 + 0x10a19e)
+#6  0x00007f1f4374d8b5 n/a (libQt5Qml.so.5 + 0x34d8b5)
+#7  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115343:
+#0  0x00007f1f4174a7a9 syscall (libc.so.6 + 0x1017a9)
+#1  0x00007f1efc0fcc60 n/a (liblttng-ust.so.1 + 0x19c60)
+#2  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#3  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115344:
+#0  0x00007f1f4174a7a9 syscall (libc.so.6 + 0x1017a9)
+#1  0x00007f1efc0fcc60 n/a (liblttng-ust.so.1 + 0x19c60)
+#2  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#3  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115315:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1f40886e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007f1f408874cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007f1f41f4e9a6 _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x34e9a6)
+#4  0x00007f1f41ef39bb _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2f39bb)
+#5  0x00007f1f41d0a19e _ZN7QThread4execEv (libQt5Core.so.5 + 0x10a19e)
+#6  0x00007f1f43b96716 n/a (libQt5Quick.so.5 + 0x196716)
+#7  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115350:
+#0  0x00007f1f41747af1 pselect64_syscall (libc.so.6 + 0xfeaf1)
+#1  0x00007f1f3e156b18 n/a (libusbmuxd-2.0.so.6 + 0x4b18)
+#2  0x00007f1f3e157790 n/a (libusbmuxd-2.0.so.6 + 0x5790)
+#3  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#4  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115351:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1f40886e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007f1f408874cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007f1f41f4e9a6 _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x34e9a6)
+#4  0x00007f1f41ef39bb _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2f39bb)
+#5  0x00007f1f41d0a19e _ZN7QThread4execEv (libQt5Core.so.5 + 0x10a19e)
+#6  0x00007f1ef745aba7 _ZN15KCupsConnection3runEv (libkcupslib.so + 0x24ba7)
+#7  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115381:
+#0  0x00007f1f4174e486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x00007f1f0684a264 n/a (libevent-2.1.so.7 + 0x2e264)
+#2  0x00007f1f068422c9 event_base_loop (libevent-2.1.so.7 + 0x262c9)
+#3  0x00007f1ee2bd8e69 n/a (libQt5WebEngineCore.so.5 + 0x2bd8e69)
+#4  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#5  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#6  0x00007f1ee2b9a15d n/a (libQt5WebEngineCore.so.5 + 0x2b9a15d)
+#7  0x00007f1ee2ba9d48 n/a (libQt5WebEngineCore.so.5 + 0x2ba9d48)
+#8  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#9  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115391:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1ee2bc5ee0 n/a (libQt5WebEngineCore.so.5 + 0x2bc5ee0)
+#3  0x00007f1ee2bc68b8 n/a (libQt5WebEngineCore.so.5 + 0x2bc68b8)
+#4  0x00007f1ee2b3bb88 n/a (libQt5WebEngineCore.so.5 + 0x2b3bb88)
+#5  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#6  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#7  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#8  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#9  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115395:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1ee2bc5d83 n/a (libQt5WebEngineCore.so.5 + 0x2bc5d83)
+#3  0x00007f1ee2bc69f8 n/a (libQt5WebEngineCore.so.5 + 0x2bc69f8)
+#4  0x00007f1ee2bc6b8f n/a (libQt5WebEngineCore.so.5 + 0x2bc6b8f)
+#5  0x00007f1ee2b9a4a8 n/a (libQt5WebEngineCore.so.5 + 0x2b9a4a8)
+#6  0x00007f1ee2b9e68f n/a (libQt5WebEngineCore.so.5 + 0x2b9e68f)
+#7  0x00007f1ee2b9ebfd n/a (libQt5WebEngineCore.so.5 + 0x2b9ebfd)
+#8  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#9  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126931:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115314:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1f41d10f6b _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110f6b)
+#3  0x00007f1f43c47b74 n/a (libQt5Quick.so.5 + 0x247b74)
+#4  0x00007f1f43c49f01 n/a (libQt5Quick.so.5 + 0x249f01)
+#5  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#6  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#7  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115285:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1f40886e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007f1f408874cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007f1f41f4e9be _ZN20QEventDispatcherGlib13processEventsE6QFlagsIN10QEventLoop17ProcessEventsFlagEE (libQt5Core.so.5 + 0x34e9be)
+#4  0x00007f1f41ef39bb _ZN10QEventLoop4execE6QFlagsINS_17ProcessEventsFlagEE (libQt5Core.so.5 + 0x2f39bb)
+#5  0x00007f1f41d0a19e _ZN7QThread4execEv (libQt5Core.so.5 + 0x10a19e)
+#6  0x00007f1f42985fb7 n/a (libQt5DBus.so.5 + 0x19fb7)
+#7  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115362:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1f41d10f6b _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110f6b)
+#3  0x00007f1f43c47b74 n/a (libQt5Quick.so.5 + 0x247b74)
+#4  0x00007f1f43c49f01 n/a (libQt5Quick.so.5 + 0x249f01)
+#5  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#6  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#7  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115387:
+#0  0x00007f1f4174798c __GI___select (libc.so.6 + 0xfe98c)
+#1  0x00007f1ee2bcc8a5 n/a (libQt5WebEngineCore.so.5 + 0x2bcc8a5)
+#2  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#3  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#4  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115405:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1ee2bc5d83 n/a (libQt5WebEngineCore.so.5 + 0x2bc5d83)
+#3  0x00007f1ee2bc69f8 n/a (libQt5WebEngineCore.so.5 + 0x2bc69f8)
+#4  0x00007f1ee2bc6b8f n/a (libQt5WebEngineCore.so.5 + 0x2bc6b8f)
+#5  0x00007f1ee2b3bb99 n/a (libQt5WebEngineCore.so.5 + 0x2b3bb99)
+#6  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#7  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#8  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#9  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#10 0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115394:
+#0  0x00007f1f4174e486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x00007f1f0684a264 n/a (libevent-2.1.so.7 + 0x2e264)
+#2  0x00007f1f068422c9 event_base_loop (libevent-2.1.so.7 + 0x262c9)
+#3  0x00007f1ee2bd8e69 n/a (libQt5WebEngineCore.so.5 + 0x2bd8e69)
+#4  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#5  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#6  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#7  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115389:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1ee2bc5d83 n/a (libQt5WebEngineCore.so.5 + 0x2bc5d83)
+#3  0x00007f1ee372f014 n/a (libQt5WebEngineCore.so.5 + 0x372f014)
+#4  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115374:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1ee5449f52 n/a (libQt5WebEngineCore.so.5 + 0x5449f52)
+#2  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#3  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#4  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126845:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115383:
+#0  0x00007f1f4174e486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x00007f1f0684a264 n/a (libevent-2.1.so.7 + 0x2e264)
+#2  0x00007f1f068422c9 event_base_loop (libevent-2.1.so.7 + 0x262c9)
+#3  0x00007f1ee2bd8ec8 n/a (libQt5WebEngineCore.so.5 + 0x2bd8ec8)
+#4  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#5  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#6  0x00007f1ee5299889 n/a (libQt5WebEngineCore.so.5 + 0x5299889)
+#7  0x00007f1ee2ba9d48 n/a (libQt5WebEngineCore.so.5 + 0x2ba9d48)
+#8  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#9  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 118100:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1ee2bc5ee0 n/a (libQt5WebEngineCore.so.5 + 0x2bc5ee0)
+#3  0x00007f1ee2bc68b8 n/a (libQt5WebEngineCore.so.5 + 0x2bc68b8)
+#4  0x00007f1ee2b9a494 n/a (libQt5WebEngineCore.so.5 + 0x2b9a494)
+#5  0x00007f1ee2b9e68f n/a (libQt5WebEngineCore.so.5 + 0x2b9e68f)
+#6  0x00007f1ee2b9eb7d n/a (libQt5WebEngineCore.so.5 + 0x2b9eb7d)
+#7  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126932:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115393:
+#0  0x00007f1f4174e486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x00007f1f0684a264 n/a (libevent-2.1.so.7 + 0x2e264)
+#2  0x00007f1f068422c9 event_base_loop (libevent-2.1.so.7 + 0x262c9)
+#3  0x00007f1ee2bd8e69 n/a (libQt5WebEngineCore.so.5 + 0x2bd8e69)
+#4  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#5  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#6  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#7  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#8  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#9  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126930:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115390:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d146d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x00007f1ee2bc5d83 n/a (libQt5WebEngineCore.so.5 + 0x2bc5d83)
+#3  0x00007f1ee2bc69f8 n/a (libQt5WebEngineCore.so.5 + 0x2bc69f8)
+#4  0x00007f1ee2bc6b8f n/a (libQt5WebEngineCore.so.5 + 0x2bc6b8f)
+#5  0x00007f1ee2b3bb99 n/a (libQt5WebEngineCore.so.5 + 0x2b3bb99)
+#6  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#7  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#8  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#9  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#10 0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126929:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115426:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1ee2bc5ee0 n/a (libQt5WebEngineCore.so.5 + 0x2bc5ee0)
+#3  0x00007f1ee2bc68b8 n/a (libQt5WebEngineCore.so.5 + 0x2bc68b8)
+#4  0x00007f1ee2b3bb88 n/a (libQt5WebEngineCore.so.5 + 0x2b3bb88)
+#5  0x00007f1ee2b8ab78 n/a (libQt5WebEngineCore.so.5 + 0x2b8ab78)
+#6  0x00007f1ee2b613c4 n/a (libQt5WebEngineCore.so.5 + 0x2b613c4)
+#7  0x00007f1ee2ba9b7d n/a (libQt5WebEngineCore.so.5 + 0x2ba9b7d)
+#8  0x00007f1ee2bc8d4b n/a (libQt5WebEngineCore.so.5 + 0x2bc8d4b)
+#9  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126846:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126933:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126847:
+#0  0x00007f1f416cecee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007f1f416d1785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x00007f1f41d10efc _ZN14QWaitCondition4waitEP6QMutex14QDeadlineTimer (libQt5Core.so.5 + 0x110efc)
+#3  0x00007f1f41d0e65c n/a (libQt5Core.so.5 + 0x10e65c)
+#4  0x00007f1f41d0b35d n/a (libQt5Core.so.5 + 0x10b35d)
+#5  0x00007f1f416d20f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007f1f4174e07c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115709:
+#0  0x00007f1f4174533f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007f1f440dc0d8 n/a (libKF5Crash.so.5 + 0x70d8)
+#2  0x00007f1f440dcc58 _ZN6KCrash19defaultCrashHandlerEi (libKF5Crash.so.5 + 0x7c58)
+#3  0x00007f1f41685110 __restore_rt (libc.so.6 + 0x3c110)
+#4  0x00007f1d341d6c48 n/a (n/a + 0x0)
+ELF object binary architecture: AMD x86-64
+
+17:01:03 kernel: audit: type=1334 audit(1709024463.806:103): prog-id=73 op=UNLOAD
+17:01:03 kernel: BPF prog-id=72 op=UNLOAD
+17:01:03 kded5: Service  "org.kde.StatusNotifierItem-115459-1" unregistered
+17:01:03 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 25459, resource id: 25165834, major code: 15 (QueryTree), minor code: 0
+17:01:03 discord: /usr/bin/discord: 第 14 行：115459 追踪与中断点陷阱（核心已转储）/usr/lib/discord/Discord "$DISCORD_LAUNCH_OPTIONS_NVIDIA" "$DISCORD_LAUNCH_OPTIONS_DISTRO" "$DISCORD_LAUNCH_OPTIONS" "$@"
+17:01:03 systemd: systemd-coredump@6-126980-0.service: Deactivated successfully.
+17:01:03 systemd-coredum: Process 115459 (Discord) of user 1000 dumped core.
+
+Stack trace of thread 115459:
+#0  0x000055eb347f537e n/a (Discord + 0x54f137e)
+#1  0x000055eb33abdbd7 n/a (Discord + 0x47b9bd7)
+#2  0x000055eb33abad26 n/a (Discord + 0x47b6d26)
+#3  0x000055eb33ab9993 n/a (Discord + 0x47b5993)
+#4  0x000055eb33ac4fd4 n/a (Discord + 0x47c0fd4)
+#5  0x000055eb33ac6464 n/a (Discord + 0x47c2464)
+#6  0x000055eb3391853f n/a (Discord + 0x461453f)
+#7  0x000055eb3397c4a4 n/a (Discord + 0x46784a4)
+#8  0x000055eb3397c6c9 n/a (Discord + 0x46786c9)
+#9  0x000055eb3483f836 n/a (Discord + 0x553b836)
+#10 0x000055eb3485d348 n/a (Discord + 0x5559348)
+#11 0x000055eb3485db6a n/a (Discord + 0x5559b6a)
+#12 0x000055eb347ff480 n/a (Discord + 0x54fb480)
+#13 0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#14 0x000055eb34821058 n/a (Discord + 0x551d058)
+#15 0x000055eb33933b4f n/a (Discord + 0x462fb4f)
+#16 0x000055eb33935a72 n/a (Discord + 0x4631a72)
+#17 0x000055eb339311ed n/a (Discord + 0x462d1ed)
+#18 0x000055eb317ca2e4 n/a (Discord + 0x24c62e4)
+#19 0x000055eb317cb69f n/a (Discord + 0x24c769f)
+#20 0x000055eb317cb44f n/a (Discord + 0x24c744f)
+#21 0x000055eb317c8582 n/a (Discord + 0x24c4582)
+#22 0x000055eb317c8cb5 n/a (Discord + 0x24c4cb5)
+#23 0x000055eb3150d55d n/a (Discord + 0x220955d)
+#24 0x00007fac00d0648a __libc_start_call_main (libc.so.6 + 0x2648a)
+#25 0x00007fac00d06545 __libc_start_main_impl (libc.so.6 + 0x26545)
+#26 0x000055eb311a202a _start (Discord + 0x1e9e02a)
+
+Stack trace of thread 115467:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb349ddf44 n/a (Discord + 0x56d9f44)
+#2  0x000055eb349dbc6f n/a (Discord + 0x56d7c6f)
+#3  0x000055eb348af1ca n/a (Discord + 0x55ab1ca)
+#4  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#5  0x000055eb34821058 n/a (Discord + 0x551d058)
+#6  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#7  0x000055eb3393681f n/a (Discord + 0x463281f)
+#8  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#9  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#10 0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115470:
+#0  0x000055eb330d7c4f n/a (Discord + 0x3dd3c4f)
+#1  0x000055eb333360d9 n/a (Discord + 0x40320d9)
+#2  0x000055eb333304be n/a (Discord + 0x402c4be)
+#3  0x000055eb3332bc41 n/a (Discord + 0x4027c41)
+#4  0x000055eb3332b4a1 n/a (Discord + 0x40274a1)
+#5  0x000055eb327b471b _ZN2v88internal23OptimizedCompilationJob10ExecuteJobEPNS0_16RuntimeCallStatsEPNS0_12LocalIsolateE (Discord + 0x34b071b)
+#6  0x000055eb327e4eb7 _ZN2v88internal27OptimizingCompileDispatcher11CompileNextEPNS0_22TurbofanCompilationJobEPNS0_12LocalIsolateE (Discord + 0x34e0eb7)
+#7  0x000055eb327e6007 n/a (Discord + 0x34e2007)
+#8  0x000055eb385c4b0a n/a (Discord + 0x92c0b0a)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115463:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb349ddf44 n/a (Discord + 0x56d9f44)
+#2  0x000055eb349dbc6f n/a (Discord + 0x56d7c6f)
+#3  0x000055eb348af1ca n/a (Discord + 0x55ab1ca)
+#4  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#5  0x000055eb34821058 n/a (Discord + 0x551d058)
+#6  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#7  0x000055eb34867cad n/a (Discord + 0x5563cad)
+#8  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#9  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#10 0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115468:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb3489b941 n/a (Discord + 0x5597941)
+#3  0x000055eb3489c0da n/a (Discord + 0x55980da)
+#4  0x000055eb347fef8b n/a (Discord + 0x54faf8b)
+#5  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#6  0x000055eb34821058 n/a (Discord + 0x551d058)
+#7  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#8  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#9  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#10 0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115471:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb385c4a3e n/a (Discord + 0x92c0a3e)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115460:
+#0  0x00007fac00ddc33f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x000055eb33f296c4 n/a (Discord + 0x4c256c4)
+#2  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#3  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#4  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115472:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb385c4a3e n/a (Discord + 0x92c0a3e)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115469:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb3150abab n/a (Discord + 0x2206bab)
+#2  0x000055eb314fc640 uv_run (Discord + 0x21f8640)
+#3  0x000055eb385c6c82 n/a (Discord + 0x92c2c82)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115473:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d70ce0 __new_sem_wait_slow64 (libc.so.6 + 0x90ce0)
+#2  0x000055eb31507e20 uv_sem_wait (Discord + 0x2203e20)
+#3  0x000055eb3863b48d n/a (Discord + 0x933748d)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115481:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb314f8d98 n/a (Discord + 0x21f4d98)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115483:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb314f8d98 n/a (Discord + 0x21f4d98)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115493:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb349ddf44 n/a (Discord + 0x56d9f44)
+#2  0x000055eb349dbc6f n/a (Discord + 0x56d7c6f)
+#3  0x000055eb348af11b n/a (Discord + 0x55ab11b)
+#4  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#5  0x000055eb34821058 n/a (Discord + 0x551d058)
+#6  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#7  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115489:
+#0  0x00007fac00ddc33f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007fac02114e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007fac021154cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007fabf12218ed n/a (libdconfsettings.so + 0x68ed)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115487:
+#0  0x00007fac00ddc33f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007fac02114e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007fac0211578f g_main_loop_run (libglib-2.0.so.0 + 0x5d78f)
+#3  0x00007fac01fee876 n/a (libgio-2.0.so.0 + 0x123876)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115594:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d68785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x000055eb3489ba82 n/a (Discord + 0x5597a82)
+#3  0x000055eb3489c4c8 n/a (Discord + 0x55984c8)
+#4  0x000055eb34875ec8 n/a (Discord + 0x5571ec8)
+#5  0x000055eb348769e2 n/a (Discord + 0x55729e2)
+#6  0x000055eb3487664d n/a (Discord + 0x557264d)
+#7  0x000055eb34876561 n/a (Discord + 0x5572561)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115505:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb349ddf44 n/a (Discord + 0x56d9f44)
+#2  0x000055eb349dbc6f n/a (Discord + 0x56d7c6f)
+#3  0x000055eb348af1ca n/a (Discord + 0x55ab1ca)
+#4  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#5  0x000055eb34821058 n/a (Discord + 0x551d058)
+#6  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#7  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115498:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb3489b941 n/a (Discord + 0x5597941)
+#3  0x000055eb359d6d5a n/a (Discord + 0x66d2d5a)
+#4  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126969:
+#0  0x00007fac00de17a9 syscall (libc.so.6 + 0x1017a9)
+#1  0x00007fac0217006c g_cond_wait_until (libglib-2.0.so.0 + 0xb806c)
+#2  0x00007fac020def43 n/a (libglib-2.0.so.0 + 0x26f43)
+#3  0x00007fac021429ba n/a (libglib-2.0.so.0 + 0x8a9ba)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126978:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d68785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x000055eb3489ba82 n/a (Discord + 0x5597a82)
+#3  0x000055eb3489c4c8 n/a (Discord + 0x55984c8)
+#4  0x000055eb34875ec8 n/a (Discord + 0x5571ec8)
+#5  0x000055eb348767d7 n/a (Discord + 0x55727d7)
+#6  0x000055eb3487664d n/a (Discord + 0x557264d)
+#7  0x000055eb34876561 n/a (Discord + 0x5572561)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115500:
+#0  0x00007fac00de5486 epoll_wait (libc.so.6 + 0x105486)
+#1  0x000055eb316a741d n/a (Discord + 0x23a341d)
+#2  0x000055eb31672207 n/a (Discord + 0x236e207)
+#3  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#4  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115484:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb314f8d98 n/a (Discord + 0x21f4d98)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115497:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d68785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x000055eb3489ba82 n/a (Discord + 0x5597a82)
+#3  0x000055eb3489c4c8 n/a (Discord + 0x55984c8)
+#4  0x000055eb34875ec8 n/a (Discord + 0x5571ec8)
+#5  0x000055eb348769e2 n/a (Discord + 0x55729e2)
+#6  0x000055eb348766ad n/a (Discord + 0x55726ad)
+#7  0x000055eb3487656b n/a (Discord + 0x557256b)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115494:
+#0  0x00007fac00daeb15 __GI___clock_nanosleep (libc.so.6 + 0xceb15)
+#1  0x00007fac00db3473 __GI___nanosleep (libc.so.6 + 0xd3473)
+#2  0x00007fac00db33aa __sleep (libc.so.6 + 0xd33aa)
+#3  0x000055eb31698ffe n/a (Discord + 0x2394ffe)
+#4  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115504:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb3489b941 n/a (Discord + 0x5597941)
+#3  0x000055eb3489c4b7 n/a (Discord + 0x55984b7)
+#4  0x000055eb34875f26 n/a (Discord + 0x5571f26)
+#5  0x000055eb348769e2 n/a (Discord + 0x55729e2)
+#6  0x000055eb3487667d n/a (Discord + 0x557267d)
+#7  0x000055eb34876575 n/a (Discord + 0x5572575)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115486:
+#0  0x00007fac00ddc33f __GI___poll (libc.so.6 + 0xfc33f)
+#1  0x00007fac02114e27 n/a (libglib-2.0.so.0 + 0x5ce27)
+#2  0x00007fac021154cc g_main_context_iteration (libglib-2.0.so.0 + 0x5d4cc)
+#3  0x00007fac02115511 n/a (libglib-2.0.so.0 + 0x5d511)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126893:
+#0  0x00007fac00de17a9 syscall (libc.so.6 + 0x1017a9)
+#1  0x00007fac0217006c g_cond_wait_until (libglib-2.0.so.0 + 0xb806c)
+#2  0x00007fac020def43 n/a (libglib-2.0.so.0 + 0x26f43)
+#3  0x00007fac021429ba n/a (libglib-2.0.so.0 + 0x8a9ba)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115485:
+#0  0x00007fac00de17a9 syscall (libc.so.6 + 0x1017a9)
+#1  0x00007fac0216fec0 g_cond_wait (libglib-2.0.so.0 + 0xb7ec0)
+#2  0x00007fac020def6b n/a (libglib-2.0.so.0 + 0x26f6b)
+#3  0x00007fac02142642 n/a (libglib-2.0.so.0 + 0x8a642)
+#4  0x00007fac0214200d n/a (libglib-2.0.so.0 + 0x8a00d)
+#5  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#6  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115499:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb3489b941 n/a (Discord + 0x5597941)
+#3  0x000055eb3489c0da n/a (Discord + 0x55980da)
+#4  0x000055eb347fef8b n/a (Discord + 0x54faf8b)
+#5  0x000055eb3485e25c n/a (Discord + 0x555a25c)
+#6  0x000055eb34821058 n/a (Discord + 0x551d058)
+#7  0x000055eb3487d038 n/a (Discord + 0x5579038)
+#8  0x000055eb3487d1d1 n/a (Discord + 0x55791d1)
+#9  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#10 0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#11 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115482:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb31507fe9 uv_cond_wait (Discord + 0x2203fe9)
+#3  0x000055eb314f8d98 n/a (Discord + 0x21f4d98)
+#4  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#5  0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 115491:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d6846d __pthread_cond_wait_common (libc.so.6 + 0x8846d)
+#2  0x000055eb3489b941 n/a (Discord + 0x5597941)
+#3  0x000055eb3489c4b7 n/a (Discord + 0x55984b7)
+#4  0x000055eb34875f26 n/a (Discord + 0x5571f26)
+#5  0x000055eb348769e2 n/a (Discord + 0x55729e2)
+#6  0x000055eb3487667d n/a (Discord + 0x557267d)
+#7  0x000055eb34876575 n/a (Discord + 0x5572575)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+
+Stack trace of thread 126486:
+#0  0x00007fac00d65cee __futex_abstimed_wait_common64 (libc.so.6 + 0x85cee)
+#1  0x00007fac00d68785 __pthread_cond_wait_common (libc.so.6 + 0x88785)
+#2  0x000055eb3489ba82 n/a (Discord + 0x5597a82)
+#3  0x000055eb3489c4c8 n/a (Discord + 0x55984c8)
+#4  0x000055eb34875ec8 n/a (Discord + 0x5571ec8)
+#5  0x000055eb348769e2 n/a (Discord + 0x55729e2)
+#6  0x000055eb3487664d n/a (Discord + 0x557264d)
+#7  0x000055eb34876561 n/a (Discord + 0x5572561)
+#8  0x000055eb3489ff54 n/a (Discord + 0x559bf54)
+#9  0x00007fac00d690f2 start_thread (libc.so.6 + 0x890f2)
+#10 0x00007fac00de507c __clone3 (libc.so.6 + 0x10507c)
+ELF object binary architecture: AMD x86-64
+
+17:01:03 systemd: Started systemd-coredump@6-126980-0.service.
+17:01:03 kernel: audit: type=1334 audit(1709024463.093:101): prog-id=74 op=LOAD
+17:01:03 kernel: BPF prog-id=74 op=LOAD
+17:01:03 systemd: Started systemd-coredump@5-126975-0.service.
+17:01:03 kernel: audit: type=1701 audit(1709024463.078:98): auid=1000 uid=1000 gid=1001 ses=3 subj=unconfined pid=115459 comm="Discord" exe="/usr/lib/discord/Discord" sig=5 res=1
+17:01:03 Discord: ANOM_ABEND auid=1000 uid=1000 gid=1001 ses=3 subj=unconfined pid=115459 comm="Discord" exe="/usr/lib/discord/Discord" sig=5 res=1
+17:01:03 kernel: audit: type=1334 audit(1709024463.064:97): prog-id=71 op=LOAD
+17:01:03 kernel: BPF prog-id=71 op=LOAD
+17:01:03 Discord: }
+17:01:03 systemd: plasma-ksystemstats.service: Consumed 1.035s CPU time.
+17:01:03 Discord: blackbox: 2024-02-27T09:01:03.062Z 12 window.close win2
+17:01:03 kernel: audit: type=1701 audit(1709024463.058:94): auid=1000 uid=1000 gid=1001 ses=3 subj=unconfined pid=115283 comm="plasmashell" exe="/usr/bin/plasmashell" sig=11 res=1
+17:01:03 plasmashell: ANOM_ABEND auid=1000 uid=1000 gid=1001 ses=3 subj=unconfined pid=115283 comm="plasmashell" exe="/usr/bin/plasmashell" sig=11 res=1
+17:01:03 kded5: Service  ":1.11465" unregistered
+17:01:03 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 24840, resource id: 4194339, major code: 15 (QueryTree), minor code: 0
+17:01:02 plasmashell: KCrash: Attempting to start /usr/lib/libexec/drkonqi
+17:01:01 Discord: [115501:0227/170101.521970:ERROR:shared_image_factory.cc(575)] Could not find SharedImageBackingFactory with params: usage: Gles2|Raster|DisplayRead|Scanout, format: RG_88, share_between_threads: 0, gmb_type: shared_memory
+17:00:46 plasmashell: trying to show an empty dialog
+17:00:19 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 55713, resource id: 119537675, major code: 18 (ChangeProperty), minor code: 0
+17:00:18 logger: ACPI group/action undefined: button/right / RIGHT
+17:00:17 telegram-deskto: QTextCursor::setPosition: Position '10' out of range
+16:58:48 logger: ACPI group/action undefined: button/right / RIGHT
+16:58:38 systemd: packagekit.service: Deactivated successfully.
+16:58:38 packagekitd: daemon quit
+16:57:58 telegram-deskto: QWidget::render: Cannot render with an inactive painter
+16:57:06 logger: ACPI group/action undefined: button/right / RIGHT
+16:56:36 systemd-network: wlan0: Link UP
+16:56:36 NetworkManager: <info>  [1709024196.6532] device (wlan0): set-hw-addr: set MAC address to B6:B9:CA:7C:44:DE (scanning)
+16:56:36 systemd-network: wlan0: Link DOWN
+16:56:07 cat: [2:0227/165607.828515:ERROR:browser_main_loop.cc(276)] GLib-GObject: ../gobject/gsignal.c:2777: instance '0x124002d1b670' has no handler with id '12280'
+16:56:07 kwin_x11: kwin_core: XCB error: 152 (BadDamage), sequence: 27471, resource id: 17337290, major code: 143 (DAMAGE), minor code: 3 (Subtract)
+16:55:46 xdg-desktop-por: kf.kio.core: Malformed JSON protocol file for protocol: "trash" , number of the ExtraNames fields should match the number of ExtraTypes fields
+16:55:46 cat: [2:0227/165546.382195:ERROR:browser_main_loop.cc(276)] GLib-GObject: invalid cast from 'GtkFileChooserNative' to 'GtkWidget'
+16:54:32 logger: ACPI group/action undefined: button/left / LEFT
+16:53:35 packagekitd: get-updates transaction /186_cabcdabe from uid 1000 finished with success after 19ms
+16:53:35 logger: ACPI group/action undefined: button/up / UP
+16:53:34 plasmashell: kf.kio.core: Malformed JSON protocol file for protocol: "trash" , number of the ExtraNames fields should match the number of ExtraTypes fields
+16:53:34 kded5: QDBusAbstractAdaptor: Cannot relay signal KDEDModule::moduleDeleted(KDEDModule*): Pointers are not supported: KDEDModule*
+16:53:34 plasmashell: kf.service.sycoca: Invalid Service :  "/usr/share/applications/org.freedesktop.Xwayland.desktop"
+16:53:33 packagekitd: get-updates transaction /185_ccbceeee from uid 1000 finished with success after 19ms
+16:53:33 sudo: pam_unix(sudo:session): session closed for user root
+16:53:33 systemd: Started packagekit.service.
+16:53:33 dbus-daemon: [system] Successfully activated service 'org.freedesktop.PackageKit'
+16:53:33 packagekitd: daemon start
+16:53:33 systemd: Starting packagekit.service...
+16:53:33 dbus-daemon: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.5767' (uid=0 pid=119948 comm="/usr/bin/gdbus call --system --dest org.freedeskto")
+16:53:32 telegram-deskto: QWidget::render: Cannot render with an inactive painter
+16:53:29 systemd: packagekit.service: Deactivated successfully.
+16:53:29 packagekitd: daemon quit
+16:53:20 telegram-deskto: Corrupt JPEG data: premature end of data segment
+16:53:04 plasmashell: QUnifiedTimer::stopAnimationDriver: driver is not running
+16:52:56 kwin_x11: qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 44227, resource id: 119537675, major code: 18 (ChangeProperty), minor code: 0
+16:52:55 logger: ACPI group/action undefined: button/down / DOWN
+16:52:48 sudo: pam_unix(sudo:session): session opened for user root(uid=0) by xunpod(uid=1000)
+16:52:35 kernel: ACPI group/action undefined: button/up / UP
+16:50:02 telegram-deskto: qt.svg: Error while inflating gzip file: SVG format check failed
+16:49:44 systemd-network: wlan0: Link UP
